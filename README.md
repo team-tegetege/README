@@ -1,5 +1,5 @@
 # 悲しみの向こう側へ（12時間経過…）
-<img width="250" alt="スクリーンショット 2021-06-20 14 31 13" src="https://user-images.githubusercontent.com/49345024/122664432-4e346900-d1dc-11eb-833f-c011cf445c19.png">
+<img width="500" alt="スクリーンショット 2021-06-20 14 31 13" src="https://user-images.githubusercontent.com/49345024/122664432-4e346900-d1dc-11eb-833f-c011cf445c19.png">
 
 # なぜシンプル操作で快適なの？
 ### 卍レコメンドエンジン卍
